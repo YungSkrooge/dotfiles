@@ -25,3 +25,5 @@ fi
 unset rc
 eval "$(starship init bash)"
 . "$HOME/.cargo/env"
+
+export PATH=$PATH:/home/gabriel/.spicetify
